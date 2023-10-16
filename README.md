@@ -1,5 +1,4 @@
 # Logarithm-Calculator
-# Logarithm Calculator
 
 This Python script allows you to calculate the base-10 logarithm of a given number within a specified range. It's designed to be a simple and user-friendly tool for quick calculations.
 
@@ -29,6 +28,6 @@ This Python script allows you to calculate the base-10 logarithm of a given numb
 Suppose you want to find the logarithm of the number 1234. Here's how you can use the script:
 
 ```bash
-$ python logarithm_calculator.py
+$ python LogFinder.py
 Enter the Number To Find Log: 1234
 Log value of 1234 => 2.0913
